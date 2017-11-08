@@ -1,0 +1,8 @@
+﻿login=*&password=*&loginPage=webservice&xml=<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE application>
+<application xmlns="https://*"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="*"
+name="* EAM" request="GetAPInvoices">
+  <description>Get Accounts Payable Invoices Request</description>
+  </application>
